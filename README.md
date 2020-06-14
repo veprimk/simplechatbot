@@ -1,1 +1,3 @@
 # simplechatbot
+
+Wrote it as part of the hyperskills course...
